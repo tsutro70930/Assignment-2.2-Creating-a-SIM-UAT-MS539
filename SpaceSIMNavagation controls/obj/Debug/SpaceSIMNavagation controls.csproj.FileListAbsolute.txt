@@ -1,0 +1,6 @@
+C:\Users\tsutr\source\repos\SpaceSIMNavagation controls\bin\Debug\SpaceSIMNavagation controls.dll
+C:\Users\tsutr\source\repos\SpaceSIMNavagation controls\bin\Debug\SpaceSIMNavagation controls.pdb
+C:\Users\tsutr\source\repos\SpaceSIMNavagation controls\obj\Debug\SpaceSIMNavagation controls.csproj.AssemblyReference.cache
+C:\Users\tsutr\source\repos\SpaceSIMNavagation controls\obj\Debug\SpaceSIMNavagation controls.csproj.CoreCompileInputs.cache
+C:\Users\tsutr\source\repos\SpaceSIMNavagation controls\obj\Debug\SpaceSIMNavagation controls.dll
+C:\Users\tsutr\source\repos\SpaceSIMNavagation controls\obj\Debug\SpaceSIMNavagation controls.pdb

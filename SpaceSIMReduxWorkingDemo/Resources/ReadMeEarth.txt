@@ -1,0 +1,1 @@
+They were the original species on the planet until the mutations gave way to many different variants and so many hero's.  For now though you land in close on a moon light night and you wonder if you alone then you see eyes in the night and a sound like a blade being drawn...."Best be moving along bub..."

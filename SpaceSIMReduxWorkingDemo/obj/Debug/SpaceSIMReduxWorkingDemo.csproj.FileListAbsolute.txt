@@ -1,0 +1,13 @@
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\obj\Debug\SpaceSIMReduxWorkingDemo.csproj.AssemblyReference.cache
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\obj\Debug\SpaceSIMReduxWorkingDemo.Form1.resources
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\obj\Debug\SpaceSIMReduxWorkingDemo.Properties.Resources.resources
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\obj\Debug\SpaceSIMReduxWorkingDemo.csproj.GenerateResource.cache
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\obj\Debug\SpaceSIMReduxWorkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\bin\Debug\SpaceSIMReduxWorkingDemo.exe.config
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\bin\Debug\SpaceSIMReduxWorkingDemo.exe
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\bin\Debug\SpaceSIMReduxWorkingDemo.pdb
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\bin\Debug\SpaceSIMNavagation controls.dll
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\bin\Debug\SpaceSIMNavagation controls.pdb
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\obj\Debug\SpaceSIM.2AC55AA4.Up2Date
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\obj\Debug\SpaceSIMReduxWorkingDemo.exe
+C:\Users\tsutr\source\repos\SpaceSIMReduxWorkingDemo\obj\Debug\SpaceSIMReduxWorkingDemo.pdb
